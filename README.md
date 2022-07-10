@@ -3,12 +3,13 @@
  
  screenshots
  
-![Adsız](https://user-images.githubusercontent.com/107379154/178130251-f0668058-910b-45c5-af48-7ea5912deb4e.jpg)
 
-![Adsız2](https://user-images.githubusercontent.com/107379154/178130254-bf506118-bd92-4126-a0c1-5616437852a4.jpg)
+![Adsız](https://user-images.githubusercontent.com/107379154/178130336-d52177d7-1996-43be-ad85-5a60945492dd.jpg)
 
-![Adsız3](https://user-images.githubusercontent.com/107379154/178130255-f0c729d6-eb8f-417e-9b4c-e74e19c2779a.jpg)
+![Adsız2](https://user-images.githubusercontent.com/107379154/178130337-bca33bd5-1227-46da-af32-090c7f84bf7f.jpg)
 
-![Adsız4](https://user-images.githubusercontent.com/107379154/178130256-58b39efa-07c5-4fc6-ba78-135de227c7c9.jpg)
+![Adsız3](https://user-images.githubusercontent.com/107379154/178130338-614b6888-6e03-44df-afa9-de35f0354655.jpg)
 
-![Adsız5](https://user-images.githubusercontent.com/107379154/178130258-07e76784-8631-4ea0-8f06-4906d36af365.jpg)
+![Adsız4](https://user-images.githubusercontent.com/107379154/178130339-6d424f2a-4d07-4261-b6de-b95cfb4b5ba3.jpg)
+
+![Adsız5](https://user-images.githubusercontent.com/107379154/178130340-ba43f0ea-4373-4731-9b7c-5c9f74ffb81c.jpg)
